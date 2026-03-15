@@ -164,13 +164,3 @@ database/
 
 routes/
 ├ api.php
-
-## Contribuição
-
-1. Criar branch
-2. Implementar feature
-3. Abrir pull request
-
-## Licença
-
-Projeto privado.
